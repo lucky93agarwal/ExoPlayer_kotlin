@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.MyExoPlayer" parent="Base.Theme.MyExoPlayer" />
+
+
+
 </resources>
